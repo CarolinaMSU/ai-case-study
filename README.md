@@ -19,7 +19,7 @@ The platform offers a range of language courses taught in an interactive or gami
 
 * How is the company funded? How much funding have they received?
 Duolingo's first investment was a $3.3 million Series A round led by Union Square Ventures and actor Ashton Kutcher's firm A-Grade Investments in October 2011. This initial investment helped to kickstart the growth of the company and further develop its language learning platform.
-As of my last update in January 2022, Duolingo had gone public with an initial public offering (IPO) in July 2021. At the time of its IPO, Duolingo was valued at around $6.5 billion. So I would say that Ashton made quite a bit of money!
+As of my last update in January 2022, Duolingo had gone public with an initial public offering (IPO) in July 2021. At the time of its IPO, Duolingo was valued at around $6.5 billion. So I would say that Ashton made quite a bit of money! Especially since it is now valued at $7.44 Billion
 
 ## Business Activities
 
@@ -70,3 +70,16 @@ It would require them to list off common tourist phrases, language and words and
 
 * Why are these technologies appropriate for your solution?
 The platform, learning experience & translated words are readily avaialble. They just need to be organized into specific travel-specific requirements. For example, the first set of words I learned in Dutch was names of fruits, which is great, but how great it woul've been if they would've added words like "allergy" or "I really like..." to the lesson, so I could express if I am allergic to a specific fruit early on in my learning. I did eventually learned to say "Ik vind bier echt lekker" - which won me plenty of smiles and conversations when ordering beer. :)
+
+Sources:
+My own personal use of Doulingo
+https://blog.duolingo.com/tag/engineering/
+https://en.wikipedia.org/wiki/Duolingo
+https://www.duolingo.com/info
+https://www.duolingo.com/approach
+https://press.duolingo.com/#about
+https://companiesmarketcap.com/duolingo/marketcap/#:~:text=Market%20cap%3A%20%247.44%20Billion,cap%20according%20to%20our%20data.
+https://en.wikipedia.org/wiki/Khan_Academy#:~:text=Khan%20Academy%20is%20an%20American,exercises%20and%20materials%20for%20educators.
+
+Google for searches like "how much is Babbel, etc."
+Chat GPT for Learning Technology list of companies & asking population of NYC, etc.
